@@ -1,0 +1,2 @@
+# NovelAppReader
+小说阅读器NovelAppReader，支持Android和IOS
